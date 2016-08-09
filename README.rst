@@ -7,8 +7,8 @@ metadata that can be used from it on Wikipedia Commons by using pywikibot.
 For more information on the package visit `pywikibot-catfiles/file-metadata
 <https://github.com/pywikibot-catfiles/file-metadata>`__.
 
-Development
-===========
+Installation
+============
 
 Docker
 ------
@@ -26,7 +26,7 @@ For more information about this image and its history, please see
 This image is updated via ...
 
 Usage
------
+=====
 
 To use the code, run the docker image as container::
 
@@ -43,7 +43,9 @@ after that you can run a bot as::
 or::
 
     # wikibot-filemeta-simple -help
-
+ 
+Development
+===========
 
 Build status
 ------------
