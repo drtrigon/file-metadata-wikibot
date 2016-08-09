@@ -25,6 +25,26 @@ For more information about this image and its history, please see
 ``pywikibotcatfiles/file-metadata`` (`on github <https://github.com/pywikibot-catfiles/file-metadata>`__).
 This image is updated via ...
 
+Usage
+-----
+
+To use the code, run the docker image as container::
+
+    $ docker run -it --rm drtrigon/file-metadata-wikibot bash
+
+and then setup pywikibot configuration::
+
+    # wikibot-create-config
+
+after that you can run a bot as::
+
+    # wikibot-filemeta-log -help
+
+or::
+
+    # wikibot-filemeta-simple -help
+
+
 Build status
 ------------
 
