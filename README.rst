@@ -70,6 +70,8 @@ Build status
 .. image::https://app.review.ninja/65132446/badge
    :target: https://app.review.ninja/drtrigon/install-file-metadata-wikibot
 
+Rollbar issues: https://rollbar.com/drtrigon/install-file-metadata-wikibot/items/
+
 Credits
 -------
 
