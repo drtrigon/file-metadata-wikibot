@@ -56,6 +56,20 @@ Build status
 .. image:: https://travis-ci.org/drtrigon/install-file-metadata-wikibot.svg?branch=master
    :target: https://travis-ci.org/drtrigon/install-file-metadata-wikibot
 
+.. image:: https://www.quantifiedcode.com/api/v1/project/40148c4255b74c66898d4e4089d8b6a5/badge.svg
+   :target: https://www.quantifiedcode.com/app/project/40148c4255b74c66898d4e4089d8b6a5
+   :alt: Code issues
+
+.. image:: https://www.quantifiedcode.com/api/v1/project/5e464db09bf743a282a1f1c10cd88194/badge.svg
+   :target: https://www.quantifiedcode.com/app/project/5e464db09bf743a282a1f1c10cd88194
+   :alt: Code issues
+
+.. image::https://app.review.ninja/65070504/badge
+   :target: https://app.review.ninja/drtrigon/docker-file-metadata-wikibot
+
+.. image::https://app.review.ninja/65132446/badge
+   :target: https://app.review.ninja/drtrigon/install-file-metadata-wikibot
+
 Credits
 -------
 
