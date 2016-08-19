@@ -56,6 +56,9 @@ Build status
 .. image:: https://travis-ci.org/drtrigon/install-file-metadata-wikibot.svg?branch=master
    :target: https://travis-ci.org/drtrigon/install-file-metadata-wikibot
 
+.. image:: https://images.microbadger.com/badges/image/drtrigon/file-metadata-wikibot.svg
+   :target: https://microbadger.com/images/drtrigon/file-metadata-wikibot
+
 .. image:: https://www.quantifiedcode.com/api/v1/project/40148c4255b74c66898d4e4089d8b6a5/badge.svg
    :target: https://www.quantifiedcode.com/app/project/40148c4255b74c66898d4e4089d8b6a5
    :alt: Code issues
